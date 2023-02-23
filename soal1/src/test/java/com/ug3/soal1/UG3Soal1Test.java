@@ -50,6 +50,11 @@ public class UG3Soal1Test
                         "Tanggal kadaluarsa = " + "20-Maret-2024" + "\n" +
                         "Jumlah(quantity) = " + 2.0+ "\n" +
                         "Berat = " + 30.0 + " gram\n" +
+                        "====================================================="),
+                Arguments.of("Silverqueen Almond","05-Januari-2024",3.0,30.0,"Nama makanan = " + "Silverqueen Almond" + "\n" +
+                        "Tanggal kadaluarsa = " + "05-Januari-2024" + "\n" +
+                        "Jumlah(quantity) = " + 3.0+ "\n" +
+                        "Berat = " + 30.0 + " gram\n" +
                         "=====================================================")
           
         );
