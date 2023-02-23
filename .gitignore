@@ -5,3 +5,6 @@ soal2/.idea
 soal2/target
 
 .idea
+.DS_Store
+
+*/.DS_Store
